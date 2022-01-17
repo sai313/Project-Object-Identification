@@ -1,0 +1,27 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+}
+
+.btn {
+    width: 50%;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+a {
+    color: black;
+}
+
+span {
+    font-size: 15px;
+}
+
+canvas {
+    border: black;
+    box-shadow: 5px 5px 5px darkgray;
+}
